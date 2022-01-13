@@ -10,14 +10,19 @@
 #
 # geode=1.12.2,1.13.x
 #
+# If the bunndle does not require a product, then set none=1.
+#
 
 geode=1
+#coherence=
 #gemfire=
+#hadoop=
 #hazelcast=
 #hazelcast-enterprise=
 #jet=
 #jet-enterprise=
+#kafka=
+#none=1
+#pado=
 #snappydata=
 #spark=
-#coherence=
-#pado=
