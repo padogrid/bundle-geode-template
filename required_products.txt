@@ -10,7 +10,8 @@
 #
 # geode=1.12.2,1.13.x
 #
-# If the bunndle does not require a product, then set none=1.
+# To deemphasize products, i.e., product not required, requires multiple products, etc.,
+# then set none=1.
 #
 
 geode=1
@@ -24,5 +25,6 @@ geode=1
 #kafka=
 #none=1
 #pado=
+#redis=
 #snappydata=
 #spark=

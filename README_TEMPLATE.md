@@ -20,9 +20,16 @@ install_bundle -download bundle-geode-...
 - name1 version
 - name2 version
 
-## Directory Tree View
+## Required Hardware
 
-[Enter a directory tree view. Try to keep it short by showing only core nested items. Delete this line.]
+- Memory
+- CPUs
+- Number of Machines
+- Etc.
+
+## Bundle Contents
+
+[Enter a directory tree view. Try to keep it short by showing only the core nested items. Delete this line.]
 
 ```console
 bundle-template/
@@ -43,6 +50,8 @@ bundle-template/
         └── client-gemfire.properties
 ```
 
+## Startup Sequence
+
 ## 1. [Enter instruction step. Enumerate steps if possible.]
 
 ## 2. [Enter instruction step. Enumerate steps if possible.]
@@ -57,4 +66,3 @@ bundle-template/
 
 1. [Enter the name of a reference article, book, web link, etc.]
 2. [Enter the name of a reference article, book, web link, etc.]
-
