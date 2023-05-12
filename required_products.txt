@@ -23,6 +23,7 @@ geode=1
 #jet=
 #jet-enterprise=
 #kafka=
+#mosquitto=
 #none=1
 #pado=
 #redis=
