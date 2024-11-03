@@ -50,7 +50,7 @@ Update the files came with the template repo.
 
 ### 3.1. pom.xml
 
-The `pom.xml` file contains instructions annocated with **@template**. Search **@template** and add your bundle specifics there.
+The `pom.xml` file contains instructions annotated with **@template**. Search **@template** and add your bundle specifics there.
 
 ### 3.2 assembly-descriptor.xml
 
